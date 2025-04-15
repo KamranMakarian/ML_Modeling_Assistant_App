@@ -1,7 +1,7 @@
 # Machine Learning Assistant Application
 
 **Description**  
-A Java-based command-line tool that supports beginner machine learning practitioners with:
+A demo Java-based command-line tool that supports beginner machine learning practitioners with:
 - Basic Exploratory Data Analysis (EDA)
 - Data imputation for missing values
 - ML model recommendations and exploration
